@@ -1,4 +1,4 @@
-#GIT
+# GIT
 
 Realiza todos los pasos que se sugieren en el documento y entrega en Aules un PDF con todas las capturas de pantalla que se solicitan, en total 12.
 La guía para seguir los diferentes apartados está <a href="https://www.youtube.com/watch?v=3GymExBkKjE">aquí</a>.
