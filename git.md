@@ -37,6 +37,13 @@ git branch -m main
 ```
 2. Captura de pantalla del nombre de la consola de Git con el nombre de la rama cambiado.
 
+## BORRAR UN REPOSITORIO
+Para borrar un repositorio podemos emplear el siguiente comando:
+
+```
+git -rf .git
+```
+
 ## GUARDAR CAMBIOS
 
 Para comprobar el estado de nuestro repositorio.
