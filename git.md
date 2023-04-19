@@ -108,6 +108,8 @@ Añadimos el fichero que no queramos incluir en los commits dentro del archivo c
 
 Por último, haz un commit en el que incluyas el fichero .gitignore.
 
+**IMPORTANTE** Si hacemos commit de un archivo y después lo incluimos en .gitignore no lo ignorará, porque GIT ya lo había detectado en el historial de cambios. Primero incluye el nombre del archivo en el fichero .gitignore y después trabaja sobre el fichero que quieres ignorar.
+
 ## GIT DIFF
 
 Haz cambios en el fichero **fichero_1.php** y sin hacer un commit comprueba con el comando git diff que puedes ver cual han sido los cambios que has hecho en el fichero. Puedes añadir el siguiente código:
