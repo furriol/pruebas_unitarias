@@ -41,7 +41,7 @@ git branch -m main
 Para borrar un repositorio podemos emplear el siguiente comando:
 
 ```
-git -rf .git
+rm -rf .git
 ```
 
 ## GUARDAR CAMBIOS
