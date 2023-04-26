@@ -2,6 +2,10 @@
  
 La guía para seguir los diferentes apartados está <a href="https://www.youtube.com/watch?v=3GymExBkKjE">aquí</a>.
 
+## ENTREGA
+
+La entraga de esta tarea consiste en adjuntar en la tarea de Aules el enlace a la cuenta de GitHub. Debes completar los apartados que a continuación se detallan. En tu profile y el historial de commits quedarán registradas todas las tareas que se proponen.
+
 ## CREACIÓN DE UNA CUENTA EN GITHUB
 
 En primer lugar, create una nueva cuenta en **GitHub**, que es la red social por excelencia de los programadores. Si ya la tienes creada del primer trimestre no pasa nada, porque para realizar los ejercicios propuestos necesitarás dos cuentas.
@@ -12,7 +16,7 @@ Para empezar a dar forma a tu profile cambia tu foto de perfil, ya bien por una 
 
 ## CREACIÓN DE BIO
 
-Redacta una descripción, en la que como mínimo debe aparecer "Estudiante del ciclo "x" en el CIPFP de Cheste", además de incorporar algún emoji. Por último, añade una location.
+Redacta una descripción, en la que como mínimo debe aparecer "Estudiante del ciclo DAW/DAM en el CIPFP de Cheste", además de incorporar algún emoji. Por último, añade una location.
 
 Encuentra una lista de emojis aquí <a href="https://gist.github.com/rxaviers/7360908">aquí</a>.
 
