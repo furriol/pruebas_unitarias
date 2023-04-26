@@ -35,7 +35,7 @@ Podéis redactar este readme.md desde **GitHub** o clonando vuestro repositorio 
 
 Este documento lo tenéis que redactar en **Markdown**, que es un lenguaje de marcas que permite agregar formato a un texto plano y después convertirlo fácilmente a HTML. Se trata del lenguaje por excelencia utilizado hoy en día para redactar la documentación en proyectos de software.
 
-![Resumen de la sintaxis de Markdown](https://github.com/furriol/pruebas_unitarias/blob/main/assets/img/resumen_markdown.PNG){width=400px}
+![Resumen de la sintaxis de Markdown](https://github.com/furriol/pruebas_unitarias/blob/main/assets/img/resumen_markdown.PNG)
 
 En el siguiente enlace encontrarás diferentes plantillas para redactar una página inicial de tu cuenta de GitHub.
 
