@@ -4,7 +4,7 @@ La guía para seguir los diferentes apartados está <a href="https://www.youtube
 
 ## ENTREGA
 
-La entraga de esta tarea consiste en adjuntar en la tarea de Aules el enlace a la cuenta de GitHub. Debes completar los apartados que a continuación se detallan. En tu profile y el historial de commits quedarán registradas todas las tareas que se proponen.
+La entrega de esta tarea consiste en adjuntar en la tarea de Aules el enlace a la cuenta de GitHub. Debes completar los apartados que a continuación se detallan. En tu profile y el historial de commits quedarán registradas todas las tareas que se proponen.
 
 ## CREACIÓN DE UNA CUENTA EN GITHUB
 
